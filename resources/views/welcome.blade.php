@@ -34,6 +34,109 @@
   * Author: BootstrapMade.com
   * License: https://bootstrapmade.com/license/
   ======================================================== -->
+
+  <!-- Start: Google Structured Data Markup -->
+<script type="application/ld+json" class="yoast-schema-graph">
+  {
+    "@context": "https://schema.org",
+    "@graph":[{
+    "@type": "WebSite",
+    "name": "SEO Project",
+    "description":"Empresa Junior no ramo de programação!",
+    "url": "{{route('home')}}",
+    
+    "alternateName": "SEO Adapti"
+  },
+  {
+    "@type": "Organization",
+    "url": "{{route('home')}}",
+    "logo": "https://example.com/photos/1x1/photo.jpg"
+  },
+  {
+    "@type": "Organization",
+    "name": "Adapti Soluções Web",
+    "url": "{{route('home')}}",
+    "email": "mailto:jane-doe@xyz.edu",
+    "sameAs": [
+      "https://www.facebook.com/SEOProject",
+      "https://www.instagram.com/SEOProject/",
+      "https://www.linkedin.com/company/SEOProject/"
+    ]
+  },
+  {
+    "@type": "LocalBusiness",
+    "image": [
+    "https://example.com/photos/1x1/photo.jpg",
+    "https://example.com/photos/1x1/photo2.jpg",
+    "https://example.com/photos/1x1/photo3.jpg" 
+    ],
+    "@id": "{{route('home')}}",
+    "name": "SEO Project",
+    "description":"Projeto realiazado pela empresa Adapti Soluções Web 
+    afim de trazer uma maio otimizção dos seu sites e seus sistemas, além de capacitar seus membros",
+    "priceRange": "0",
+    "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "148 W 51st St",
+    "addressLocality": "São Mateus",
+    "addressRegion": "ES",
+    "postalCode": "29xxx-xxx",
+    "addressCountry": "BR"
+    },
+   
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 40.761293,
+      "longitude": -73.982294
+    },
+     "url": "{{route('home')}}",
+     "telephone": "27 xxxxx-xxxxx | 27 xxxxx-xxxxx | 27
+    xxxxx-xxxxx",
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+      "monday"
+      ],
+      "opens": "08:00",
+      "closes": "18:00"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+      "tuesday"
+      ],
+      "opens": "08:00",
+      "closes": "18:00"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+      "wednesday"
+    ],
+      "opens": "08:00",
+      "closes": "18:00"
+    },
+    {
+      "@type": "OpeningHoursSpecification", 
+      "dayOfWeek": [
+      "thursday"
+      ],
+      "opens": "08:00",
+      "closes": "18:00"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+      "friday"
+      ],
+      "opens": "08:00",
+      "closes": "18:00"
+    }
+  ]
+  }]
+  }</script>
+  <!-- End: Google Structured Data Markup --> 
 </head>
 
 <body>

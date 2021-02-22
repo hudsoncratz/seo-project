@@ -34,6 +34,134 @@
   * Author: BootstrapMade.com
   * License: https://bootstrapmade.com/license/
   ======================================================== -->
+
+    <!-- Start: Google Structured Data Markup -->
+<script type="application/ld+json" class="yoast-schema-graph">
+  {
+   "@context":"https://schema.org",
+   "@graph":[
+   {
+   
+   "@type":"Organization",
+   "@id":"{{route('home')}}",
+   "name":"Empresa",
+   "url":"{{route('home')}}",
+   "sameAs":[
+   "https://www.facebook.com/SEOProject",
+   "https://www.instagram.com/SEOProject/",
+   "https://www.linkedin.com/company/SEOProject"
+   ],
+   "logo":{
+   "@type":"ImageObject",
+   "@id":"{{ asset('assets/logo.png') }}",
+   "inLanguage":"pt-BR",
+   "url":"{{ asset('assets/logo.png') }}",
+   "width":350, 
+   "height":116,
+   "caption":"SEOProject"
+   }
+   },
+   {
+   "@type":"WebSite",
+   "@id":"{{route('home')}}",
+   "url":"{{route('home')}}",
+   "name":"SEOProject",
+   "description":"Projeto realiazado pela empresa Adapti Soluções Web 
+   afim de trazer uma maio otimizção dos seu sites e seus sistemas, além de capacitar seus membros",
+   "publisher":{
+   "@id":"{{route('home')}}"
+   },
+   "inLanguage":"pt-BR"
+   },
+   {
+   "@type":"ImageObject",
+  "@id":"{{ asset(`assets/img/{$nomeDaImagem}`)}}",
+   "inLanguage":"pt-BR",
+   "url":"{{ asset(`assets/img/{$nomeDaImagem}`)}}",
+   "width":2048,
+   "height":1365
+   },
+   {
+   "@type":"WebPage",
+   "@id":"{{route('blog')}}",
+   "url":"{{route('blog')}}",
+   "name":"{$title}",
+   "isPartOf":{
+   "@type": "WebSite",
+   "@id":"{{route('home')}}"
+   },
+   "primaryImageOfPage":{
+  "@id":"{{route('home')}}"
+   },
+   "datePublished":"2020-11-30T17:57:50+00:00",
+   "dateModified":"2020-12-01T12:15:21+00:00",
+   "description":"Descrição do assunto do post",
+   "inLanguage":"pt-BR",
+   "potentialAction":[{
+   "@type":"ReadAction",
+   "target":["{{route('blog')"]
+   }]
+   },
+   {
+   "@type":"Article",
+   "@id":"{{route('blog')}}",
+   "isPartOf":{
+   "@id":"{{route('home')}}"
+   },
+   "author":{
+   "@type": "$authorName",
+   "name": "$authorName",
+   "@id":"https://www.empresa.com.br/#/schema/person/"
+   },
+   "headline":"{$title}",
+   "datePublished":"2020-11-30T17:57:50+00:00",
+   "dateModified":"2020-12-01T12:15:21+00:00",
+   "mainEntityOfPage":{
+   "@type": "WebPage",
+  "@id":"https://www.empresa.com.br/link-do-post//#webpage"
+   },
+   "commentCount":0,
+   "publisher":{
+   "@type": "Organization",
+   "name": "SEO Project",
+   "@id":"{{ route('home')}}",
+   "logo": {
+   "@type": "ImageObject",
+   "url": "{{ asset('assets/logo.png') }}"
+   }
+   },
+   "image":{
+  "@id":"{{route('blog')}}" 
+   },
+   "keywords":"SEO, Dados estruturados, site fácil",
+   "articleSection":"Blog, Post",
+   "inLanguage":"pt-BR",
+   "potentialAction":[{
+   "@type":"CommentAction",
+   "name":"Comment",
+  "target":["https://www.empresa.com.br/link-do-post//#respond"]
+   }]
+   },
+   {
+   "@type":"Person",
+  direicionada ao post -->
+  "@id":"{{route('home')}}",
+   "name":"{$authorName}",
+   "image":{
+   "@type":"ImageObject",
+   "@id":"https://www.empresa.com.br/#personlogo",
+   "inLanguage":"pt-BR",
+  "url":"https://secure.gravatar.com/avatar/f683cfca4910730f7e946931262e8
+  a35?s=96&d=mm&r=g",
+   "caption":"$authorName"
+   },
+   "description":"Alguma descrição sobre a pessoa!",
+   "sameAs":["http://www.www.empresa.com.br"]
+   }
+   ] 
+  }</script>
+  <!-- End: Google Structured Data Markup --> 
+
 </head>
 
 <body>
