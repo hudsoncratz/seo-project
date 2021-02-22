@@ -15,4 +15,8 @@ use Illuminate\Support\Facades\Route;
 
 Route::get("/", "HomeController@index")->name("home");
 
+Route::get("/blog", function() {
+    return view("portfolio-details");
+})->name("blog");
+
 Route::get('/portfolio',['as' => 'home.portfolio', 'uses' => 'HomeController@portfolio']);

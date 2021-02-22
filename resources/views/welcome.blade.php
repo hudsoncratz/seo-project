@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Gp Bootstrap Template - Index</title>
+  <title>SEO</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -56,7 +56,12 @@
           <li> </li>
           <li><a href="#contact">Localização</a></li> <!-- #services-->
           <li> </li>
-          <li><a href="#contact">Contato</a></li> <!--#portifolio-->
+          <li><a href="#contact">Contato</a></li> <!--#portifolio  -->
+          <li> </li>
+          <li><a href="#footer">Newsletter</a></li> <!--#portifolio  -->
+
+
+          
           <!--
           <li><a href="#team">Team</a></li>
           <li class="drop-down"><a href="">Drop Down</a>
@@ -324,7 +329,7 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-file"></i></div>
-              <h4><a href="">Título 1</a></h4>
+              <h4><a href="/blog">Título 1</a></h4>
               <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
             </div>
           </div>
@@ -781,13 +786,6 @@
               <li><i class="bx bx-chevron-right"></i> <a href="#contact">Contato</a></li>
             </ul>
           </div>
-
-
-          
-
-
-
-
 
           <div class="col-lg-3 col-md-6 footer-links">
             <h4>Posts do Blog</h4>
