@@ -42,7 +42,7 @@
   <header id="header" class="fixed-top ">
     <div class="container d-flex align-items-center justify-content-between">
 
-      <h1 class="logo"><a href="/">Gp<span>.</span></a></h1>
+      <h1 class="logo"><a href="/">SEO<span>.</span></a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="/" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
@@ -323,8 +323,8 @@
         <div class="row">
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
-              <div class="icon"><i class="bx bxl-dribbble"></i></div>
-              <h4><a href="">Lorem Ipsum</a></h4>
+              <div class="icon"><i class="bx bx-file"></i></div>
+              <h4><a href="">Título 1</a></h4>
               <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
             </div>
           </div>
@@ -332,19 +332,19 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-file"></i></div>
-              <h4><a href="">Sed ut perspiciatis</a></h4>
+              <h4><a href="">Título 2</a></h4>
               <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box">
-              <div class="icon"><i class="bx bx-tachometer"></i></div>
-              <h4><a href="">Magni Dolores</a></h4>
+              <div class="icon"><i class="bx bx-file"></i></div>
+              <h4><a href="">Título 3</a></h4>
               <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
             </div>
           </div>
-
+          <!--
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-world"></i></div>
@@ -368,6 +368,7 @@
               <p>Modi nostrum vel laborum. Porro fugit error sit minus sapiente sit aspernatur</p>
             </div>
           </div>
+        -->
 
         </div>
 
@@ -678,8 +679,8 @@
         </div>
 
         <div>
-          <iframe style="border:0; width: 100%; height: 270px;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" allowfullscreen></iframe>
-        </div>
+          <iframe style="border:0; width: 100%; height: 270px;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3779.736096609945!2d-39.86457678510494!3d-18.675834787318717!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xca0cd4614ba4c1%3A0xd6dde30c8ab9461b!2sUniversidade%20Federal%20do%20Esp%C3%ADrito%20Santo%20-%20Campus%20S%C3%A3o%20Mateus!5e0!3m2!1spt-BR!2sbr!4v1614006266801!5m2!1spt-BR!2sbr" frameborder="0" allowfullscreen></iframe>
+         </div>
 
         <div class="row mt-5">
 
@@ -688,19 +689,19 @@
               <div class="address">
                 <i class="icofont-google-map"></i>
                 <h4>Locazição:</h4>
-                <p>A108 Adam Street, New York, NY 535022</p>
+                <p>Rodovia BR 101 Norte, KM 60 Bairro Litorâneo, São Mateus – ES CEUNES - Anexo ao prédio da SUGRAD.</p>
               </div>
 
               <div class="email">
                 <i class="icofont-envelope"></i>
                 <h4>E-mail:</h4>
-                <p>info@example.com</p>
+                <p>contato@adapti.info</p>
               </div>
 
               <div class="phone">
                 <i class="icofont-phone"></i>
                 <h4>Telefone:</h4>
-                <p>+1 5589 55488 55s</p>
+                <p>(27) 3312-1708</p>
               </div>
 
             </div>
@@ -753,48 +754,55 @@
 
           <div class="col-lg-3 col-md-6">
             <div class="footer-info">
-              <h3>Gp<span>.</span></h3>
+              <h3>SEO<span>.</span></h3>
               <p>
-                A108 Adam Street <br>
-                NY 535022, USA<br><br>
-                <strong>Phone:</strong> +1 5589 55488 55<br>
-                <strong>Email:</strong> info@example.com<br>
+                Rodovia BR 101 Norte, KM 60  <br>
+                Bairro Litorâneo, São Mateus – ES<br><br>
+                <strong>Telefone:</strong> (27) 3312-1708<br>
+                <strong>Email:</strong> contato@adapti.info<br>
               </p>
               <div class="social-links mt-3">
-                <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-                <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-                <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-                <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-                <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+                <a href="https://github.com/adaptiOficial" class="twitter"><i class="bx bxl-github"></i></a> 
+                <a href="https://www.facebook.com/AdaptiEmpresaJr" class="facebook"><i class="bx bxl-facebook"></i></a>
+                <a href="https://www.instagram.com/adaptiempresajr/" class="instagram"><i class="bx bxl-instagram"></i></a>
+                <!-- <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>  -->
+                <a href="https://www.linkedin.com/company/adaptiempresajr/" class="linkedin"><i class="bx bxl-linkedin"></i></a>
               </div>
             </div>
           </div>
 
           <div class="col-lg-2 col-md-6 footer-links">
-            <h4>Useful Links</h4>
+            <h4>Links</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="/">Home</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#about">Sobre Nós</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#team">Equipe</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#contact">Localização</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#contact">Contato</a></li>
             </ul>
           </div>
 
+
+          
+
+
+
+
+
           <div class="col-lg-3 col-md-6 footer-links">
-            <h4>Our Services</h4>
+            <h4>Posts do Blog</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Web Design</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Web Development</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Product Management</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Marketing</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Graphic Design</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">SEO e sua imporancia</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Divisão SEO</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Implantação SEO</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Marketing & SEO</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">SEO - Conceito</a></li>
             </ul>
           </div>
 
           <div class="col-lg-4 col-md-6 footer-newsletter">
-            <h4>Our Newsletter</h4>
-            <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
+            <h4>Assine nossa Newsletter</h4>
+            <p>Assine e fique por dentro de todas novidades sobre SEO.</p>
             <form action="" method="post">
               <input type="email" name="email"><input type="submit" value="Subscribe">
             </form>
@@ -807,14 +815,14 @@
 
     <div class="container">
       <div class="copyright">
-        &copy; Copyright <strong><span>Gp</span></strong>. All Rights Reserved
+        &copy; Copyright <strong><span>SEO</span></strong>. All Rights Reserved
       </div>
       <div class="credits">
         <!-- All the links in the footer should remain intact. -->
         <!-- You can delete the links only if you purchased the pro version. -->
         <!-- Licensing information: https://bootstrapmade.com/license/ -->
         <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/gp-free-multipurpose-html-bootstrap-template/ -->
-        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+        Designed by <a href="https://www.adapti.info/">Adapti</a>
       </div>
     </div>
   </footer><!-- End Footer -->
