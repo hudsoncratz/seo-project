@@ -49,9 +49,15 @@
       <nav class="nav-menu d-none d-lg-block">
         <ul>
           <li class="active"><a href="/">Home</a></li>
-          <li><a href="#about">About</a></li>
-          <li><a href="#services">Services</a></li>
-          <li><a href="#portfolio">Portfolio</a></li>
+          <li> </li>
+          <li><a href="#about">Sobre Nós</a></li> <!--#portifolio-->
+          <li> </li>
+          <li><a href="#team">Equipe</a></li> <!--#about-->
+          <li> </li>
+          <li><a href="#contact">Localização</a></li> <!-- #services-->
+          <li> </li>
+          <li><a href="#contact">Contato</a></li> <!--#portifolio-->
+          <!--
           <li><a href="#team">Team</a></li>
           <li class="drop-down"><a href="">Drop Down</a>
             <ul>
@@ -70,12 +76,13 @@
               <li><a href="#">Drop Down 4</a></li>
             </ul>
           </li>
-          <li><a href="#contact">Contact</a></li>
+          -->
+          <!-- <li><a href="#contact">Contact</a></li>-->
 
         </ul>
       </nav><!-- .nav-menu -->
 
-      <a href="#about" class="get-started-btn scrollto">Get Started</a>
+      <a href="#services" class="get-started-btn scrollto">Blog</a> <!-- #about-->
 
     </div>
   </header><!-- End Header -->
@@ -86,11 +93,11 @@
 
       <div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
         <div class="col-xl-6 col-lg-8">
-          <h1>Powerful Digital Solutions With Gp<span>.</span></h1>
-          <h2>We are team of talanted digital marketers</h2>
+          <h1>Projeto SEO<span>.</span></h1>
+          <h2>Deselvolvemos e aplicamos o seu sonho</h2>
         </div>
       </div>
-
+      <!--
       <div class="row mt-5 justify-content-center" data-aos="zoom-in" data-aos-delay="250">
         <div class="col-xl-2 col-md-4 col-6">
           <div class="icon-box">
@@ -123,8 +130,9 @@
           </div>
         </div>
       </div>
-
+    
     </div>
+    -->
   </section><!-- End Hero -->
 
   <main id="main">
@@ -138,7 +146,8 @@
             <img src="assets/img/about.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right" data-aos-delay="100">
-            <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
+            <h3>Sobre Nós.</h3>
+            <p></p>
             <p class="font-italic">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
               magna aliqua.
@@ -158,7 +167,97 @@
       </div>
     </section><!-- End About Section -->
 
+        <!-- ======= Team Section ======= -->
+        <section id="team" class="team">
+          <div class="container" data-aos="fade-up">
+    
+            <div class="section-title">
+              <h2>Team</h2>
+              <p>Veja a nossa Equipe</p>
+            </div>
+    
+            <div class="row">
+    
+              <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+                <div class="member" data-aos="fade-up" data-aos-delay="100">
+                  <div class="member-img">
+                    <img src="assets/img/team/ana.png" class="img-fluid" alt="">
+                    <div class="social">
+                      <a href=""><i class="icofont-twitter"></i></a>
+                      <a href=""><i class="icofont-facebook"></i></a>
+                      <a href=""><i class="icofont-instagram"></i></a>
+                      <a href=""><i class="icofont-linkedin"></i></a>
+                    </div>
+                  </div>
+                  <div class="member-info">
+                    <h4>Ana Flávia</h4>
+                    <span>Supervisora/ Diretora/ Orientadora</span>
+                  </div>
+                </div>
+              </div>
+    
+              <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+                <div class="member" data-aos="fade-up" data-aos-delay="200">
+                  <div class="member-img">
+                    <img src="assets/img/team/hudson.png" class="img-fluid" alt="">
+                    <div class="social">
+                      <a href=""><i class="icofont-twitter"></i></a>
+                      <a href=""><i class="icofont-facebook"></i></a>
+                      <a href=""><i class="icofont-instagram"></i></a>
+                      <a href=""><i class="icofont-linkedin"></i></a>
+                    </div>
+                  </div>
+                  <div class="member-info">
+                    <h4>Hudson</h4>
+                    <span>DEV</span>
+                  </div>
+                </div>
+              </div>
+    
+              <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+                <div class="member" data-aos="fade-up" data-aos-delay="300">
+                  <div class="member-img">
+                    <img src="assets/img/team/iasmin.png" class="img-fluid" alt="">
+                    <div class="social">
+                      <a href=""><i class="icofont-twitter"></i></a>
+                      <a href=""><i class="icofont-facebook"></i></a>
+                      <a href=""><i class="icofont-instagram"></i></a>
+                      <a href=""><i class="icofont-linkedin"></i></a>
+                    </div>
+                  </div>
+                  <div class="member-info">
+                    <h4>Iasmin Marques Pereira</h4>
+                    <span>DEV/ Designer</span>
+                  </div>
+                </div>
+              </div>
+    
+              <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+                <div class="member" data-aos="fade-up" data-aos-delay="400">
+                  <div class="member-img">
+                    <img src="assets/img/team/kleiton.png" class="img-fluid" alt="">
+                    <div class="social">
+                      <a href=""><i class="icofont-twitter"></i></a>
+                      <a href=""><i class="icofont-facebook"></i></a>
+                      <a href=""><i class="icofont-instagram"></i></a>
+                      <a href=""><i class="icofont-linkedin"></i></a>
+                    </div>
+                  </div>
+                  <div class="member-info">
+                    <h4>Kleiton</h4>
+                    <span>DEV</span>
+                  </div>
+                </div>
+              </div>
+    
+            </div>
+    
+          </div>
+        </section><!-- End Team Section -->
+
+
     <!-- ======= Clients Section ======= -->
+    <!--
     <section id="clients" class="clients">
       <div class="container" data-aos="zoom-in">
 
@@ -174,9 +273,11 @@
         </div>
 
       </div>
+    -->
     </section><!-- End Clients Section -->
-
+    
     <!-- ======= Features Section ======= -->
+    <!--
     <section id="features" class="features">
       <div class="container" data-aos="fade-up">
 
@@ -207,6 +308,7 @@
         </div>
 
       </div>
+    -->
     </section><!-- End Features Section -->
 
     <!-- ======= Services Section ======= -->
@@ -214,8 +316,8 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Services</h2>
-          <p>Check our Services</p>
+          <h2>Curiosidades e muito mais</h2>
+          <p>Blog</p>
         </div>
 
         <div class="row">
@@ -273,6 +375,7 @@
     </section><!-- End Services Section -->
 
     <!-- ======= Cta Section ======= -->
+    <!--
     <section id="cta" class="cta">
       <div class="container" data-aos="zoom-in">
 
@@ -283,9 +386,11 @@
         </div>
 
       </div>
+    -->
     </section><!-- End Cta Section -->
 
     <!-- ======= Portfolio Section ======= -->
+    <!--
     <section id="portfolio" class="portfolio">
       <div class="container" data-aos="fade-up">
 
@@ -436,9 +541,11 @@
         </div>
 
       </div>
+    -->
     </section><!-- End Portfolio Section -->
 
     <!-- ======= Counts Section ======= -->
+    <!--
     <section id="counts" class="counts">
       <div class="container" data-aos="fade-up">
 
@@ -483,14 +590,17 @@
                   </div>
                 </div>
               </div>
+            -->
             </div><!-- End .content-->
           </div>
         </div>
 
       </div>
-    </section><!-- End Counts Section -->
 
+    </section><!-- End Counts Section -->
+    
     <!-- ======= Testimonials Section ======= -->
+    <!--
     <section id="testimonials" class="testimonials">
       <div class="container" data-aos="zoom-in">
 
@@ -520,7 +630,7 @@
 
           <div class="testimonial-item">
             <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
-            <h3>Jena Karlis</h3>
+            <h3>Iasmin Test</h3>
             <h4>Store Owner</h4>
             <p>
               <i class="bx bxs-quote-alt-left quote-icon-left"></i>
@@ -554,103 +664,17 @@
         </div>
 
       </div>
+    -->
     </section><!-- End Testimonials Section -->
 
-    <!-- ======= Team Section ======= -->
-    <section id="team" class="team">
-      <div class="container" data-aos="fade-up">
-
-        <div class="section-title">
-          <h2>Team</h2>
-          <p>Check our Team</p>
-        </div>
-
-        <div class="row">
-
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="100">
-              <div class="member-img">
-                <img src="assets/img/team/team-1.jpg" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="icofont-twitter"></i></a>
-                  <a href=""><i class="icofont-facebook"></i></a>
-                  <a href=""><i class="icofont-instagram"></i></a>
-                  <a href=""><i class="icofont-linkedin"></i></a>
-                </div>
-              </div>
-              <div class="member-info">
-                <h4>Walter White</h4>
-                <span>Chief Executive Officer</span>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="200">
-              <div class="member-img">
-                <img src="assets/img/team/team-2.jpg" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="icofont-twitter"></i></a>
-                  <a href=""><i class="icofont-facebook"></i></a>
-                  <a href=""><i class="icofont-instagram"></i></a>
-                  <a href=""><i class="icofont-linkedin"></i></a>
-                </div>
-              </div>
-              <div class="member-info">
-                <h4>Sarah Jhonson</h4>
-                <span>Product Manager</span>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="300">
-              <div class="member-img">
-                <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="icofont-twitter"></i></a>
-                  <a href=""><i class="icofont-facebook"></i></a>
-                  <a href=""><i class="icofont-instagram"></i></a>
-                  <a href=""><i class="icofont-linkedin"></i></a>
-                </div>
-              </div>
-              <div class="member-info">
-                <h4>William Anderson</h4>
-                <span>CTO</span>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="400">
-              <div class="member-img">
-                <img src="assets/img/team/team-4.jpg" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="icofont-twitter"></i></a>
-                  <a href=""><i class="icofont-facebook"></i></a>
-                  <a href=""><i class="icofont-instagram"></i></a>
-                  <a href=""><i class="icofont-linkedin"></i></a>
-                </div>
-              </div>
-              <div class="member-info">
-                <h4>Amanda Jepson</h4>
-                <span>Accountant</span>
-              </div>
-            </div>
-          </div>
-
-        </div>
-
-      </div>
-    </section><!-- End Team Section -->
 
     <!-- ======= Contact Section ======= -->
     <section id="contact" class="contact">
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Contact</h2>
-          <p>Contact Us</p>
+          <h2>Entre em Contato</h2>
+          <p>Contato</p>
         </div>
 
         <div>
@@ -663,19 +687,19 @@
             <div class="info">
               <div class="address">
                 <i class="icofont-google-map"></i>
-                <h4>Location:</h4>
+                <h4>Locazição:</h4>
                 <p>A108 Adam Street, New York, NY 535022</p>
               </div>
 
               <div class="email">
                 <i class="icofont-envelope"></i>
-                <h4>Email:</h4>
+                <h4>E-mail:</h4>
                 <p>info@example.com</p>
               </div>
 
               <div class="phone">
                 <i class="icofont-phone"></i>
-                <h4>Call:</h4>
+                <h4>Telefone:</h4>
                 <p>+1 5589 55488 55s</p>
               </div>
 
@@ -688,20 +712,20 @@
             <form action="forms/contact.php" method="post" role="form" class="php-email-form">
               <div class="row">
                 <div class="col-md-6 form-group">
-                  <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
+                  <input type="text" name="name" class="form-control" id="name" placeholder="Nome" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
                   <div class="validate"></div>
                 </div>
                 <div class="col-md-6 form-group mt-3 mt-md-0">
-                  <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email" />
+                  <input type="email" class="form-control" name="email" id="email" placeholder="E-mail" data-rule="email" data-msg="Please enter a valid email" />
                   <div class="validate"></div>
                 </div>
               </div>
               <div class="form-group mt-3">
-                <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
+                <input type="text" class="form-control" name="subject" id="subject" placeholder="Assunto" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
                 <div class="validate"></div>
               </div>
               <div class="form-group mt-3">
-                <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
+                <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Mensagem"></textarea>
                 <div class="validate"></div>
               </div>
               <div class="mb-3">
@@ -709,7 +733,7 @@
                 <div class="error-message"></div>
                 <div class="sent-message">Your message has been sent. Thank you!</div>
               </div>
-              <div class="text-center"><button type="submit">Send Message</button></div>
+              <div class="text-center"><button type="submit">Enviar</button></div>
             </form>
 
           </div>
