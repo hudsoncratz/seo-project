@@ -6,8 +6,8 @@
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
   <title>Gp Bootstrap Template - Index</title>
-  <meta content="" name="description">
-  <meta content="" name="keywords">
+  <meta content="Aprenda técnicas de SEO com os maiores nomes do mercado. Aumente o ranqueamento do seu site e faça seu CTR ir às alturas!" name="description">
+  <meta content="seo, ranqueamento, taxa de cliques, performance" name="keywords">
 
   <!-- Favicons -->
   <link href="assets/img/favicon.png" rel="icon">
