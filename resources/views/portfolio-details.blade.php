@@ -6,8 +6,8 @@
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
   <title>SEO</title>
-  <meta content="" name="description">
-  <meta content="" name="keywords">
+  <meta content="Aprenda técnicas de SEO com os maiores nomes do mercado. Aumente o ranqueamento do seu site e faça seu CTR ir às alturas!" name="description">
+  <meta content="seo, ranqueamento, taxa de cliques, performance" name="keywords">
 
   <!-- Favicons -->
   <link href="assets/img/favicon.png" rel="icon">
@@ -42,40 +42,26 @@
   <header id="header" class="fixed-top header-inner-pages">
     <div class="container d-flex align-items-center justify-content-between">
 
-      <h1 class="logo"><a href="index.html">Gp<span>.</span></a></h1>
+      <h1 class="logo"><a href="index.html">SEO<span>.</span></a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
       <nav class="nav-menu d-none d-lg-block">
         <ul>
-          <li><a href="index.html">Home</a></li>
-          <li><a href="#about">About</a></li>
-          <li><a href="#services">Services</a></li>
-          <li class="active"><a href="#portfolio">Portfolio</a></li>
-          <li><a href="#team">Team</a></li>
-          <li class="drop-down"><a href="">Drop Down</a>
-            <ul>
-              <li><a href="#">Drop Down 1</a></li>
-              <li class="drop-down"><a href="#">Deep Drop Down</a>
-                <ul>
-                  <li><a href="#">Deep Drop Down 1</a></li>
-                  <li><a href="#">Deep Drop Down 2</a></li>
-                  <li><a href="#">Deep Drop Down 3</a></li>
-                  <li><a href="#">Deep Drop Down 4</a></li>
-                  <li><a href="#">Deep Drop Down 5</a></li>
-                </ul>
-              </li>
-              <li><a href="#">Drop Down 2</a></li>
-              <li><a href="#">Drop Down 3</a></li>
-              <li><a href="#">Drop Down 4</a></li>
-            </ul>
-          </li>
-          <li><a href="#contact">Contact</a></li>
-
-        </ul>
+          <li class="active"><a href="/">Home</a></li>
+          <li> </li>
+          <li><a href="#about">Sobre Nós</a></li> <!--#portifolio-->
+          <li> </li>
+          <li><a href="#team">Equipe</a></li> <!--#about-->
+          <li> </li>
+          <li><a href="#contact">Localização</a></li> <!-- #services-->
+          <li> </li>
+          <li><a href="#contact">Contato</a></li> <!--#portifolio  -->
+          <li> </li>
+          <li><a href="#footer">Newsletter</a></li> <!--#portifolio  -->
       </nav><!-- .nav-menu -->
 
-      <a href="#about" class="get-started-btn scrollto">Get Started</a>
+      <a href="#services" class="get-started-btn scrollto">Blog</a>
 
     </div>
   </header><!-- End Header -->
@@ -87,10 +73,10 @@
       <div class="container">
 
         <div class="d-flex justify-content-between align-items-center">
-          <h2>Portfolio Details</h2>
+          <h2>Blog - SEO</h2>
           <ol>
             <li><a href="index.html">Home</a></li>
-            <li>Portfolio Details</li>
+            <li>Aumente sua taxa de cliques</li>
           </ol>
         </div>
 
@@ -104,11 +90,12 @@
         <div class="portfolio-details-container">
 
           <div class="owl-carousel portfolio-details-carousel">
-            <img src="assets/img/portfolio/portfolio-details-1.jpg" class="img-fluid" alt="">
-            <img src="assets/img/portfolio/portfolio-details-2.jpg" class="img-fluid" alt="">
+            <img src="assets/img/portfolio/cliques.png" class="img-fluid" alt="">
+            <!--<img src="assets/img/portfolio/portfolio-details-2.jpg" class="img-fluid" alt="">
             <img src="assets/img/portfolio/portfolio-details-3.jpg" class="img-fluid" alt="">
+            -->
           </div>
-
+          <!--
           <div class="portfolio-info">
             <h3>Project information</h3>
             <ul>
@@ -118,11 +105,12 @@
               <li><strong>Project URL</strong>: <a href="#">www.example.com</a></li>
             </ul>
           </div>
+        -->
 
         </div>
 
         <div class="portfolio-description">
-          <h2>This is an example of portfolio detail</h2>
+          <h2>Aumente sua taxa de cliques</h2>
           <p>
             Autem ipsum nam porro corporis rerum. Quis eos dolorem eos itaque inventore commodi labore quia quia. Exercitationem repudiandae officiis neque suscipit non officia eaque itaque enim. Voluptatem officia accusantium nesciunt est omnis tempora consectetur dignissimos. Sequi nulla at esse enim cum deserunt eius.
           </p>
@@ -141,48 +129,48 @@
 
           <div class="col-lg-3 col-md-6">
             <div class="footer-info">
-              <h3>Gp<span>.</span></h3>
+              <h3>SEO<span>.</span></h3>
               <p>
-                A108 Adam Street <br>
-                NY 535022, USA<br><br>
-                <strong>Phone:</strong> +1 5589 55488 55<br>
-                <strong>Email:</strong> info@example.com<br>
+                Rodovia BR 101 Norte, KM 60  <br>
+                Bairro Litorâneo, São Mateus – ES<br><br>
+                <strong>Telefone:</strong> (27) 3312-1708<br>
+                <strong>Email:</strong> contato@adapti.info<br>
               </p>
               <div class="social-links mt-3">
-                <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-                <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-                <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-                <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-                <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+                <a href="https://github.com/adaptiOficial" class="twitter"><i class="bx bxl-github"></i></a> 
+                <a href="https://www.facebook.com/AdaptiEmpresaJr" class="facebook"><i class="bx bxl-facebook"></i></a>
+                <a href="https://www.instagram.com/adaptiempresajr/" class="instagram"><i class="bx bxl-instagram"></i></a>
+                <!-- <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>  -->
+                <a href="https://www.linkedin.com/company/adaptiempresajr/" class="linkedin"><i class="bx bxl-linkedin"></i></a>
               </div>
             </div>
           </div>
 
           <div class="col-lg-2 col-md-6 footer-links">
-            <h4>Useful Links</h4>
+            <h4>Links</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="/">Home</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#about">Sobre Nós</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#team">Equipe</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#contact">Localização</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#contact">Contato</a></li>
             </ul>
           </div>
 
           <div class="col-lg-3 col-md-6 footer-links">
-            <h4>Our Services</h4>
+            <h4>Posts do Blog</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Web Design</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Web Development</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Product Management</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Marketing</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Graphic Design</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">SEO e sua imporancia</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Divisão SEO</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Implantação SEO</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Marketing & SEO</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">SEO - Conceito</a></li>
             </ul>
           </div>
 
           <div class="col-lg-4 col-md-6 footer-newsletter">
-            <h4>Our Newsletter</h4>
-            <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
+            <h4>Assine nossa Newsletter</h4>
+            <p>Assine e fique por dentro de todas novidades sobre SEO.</p>
             <form action="" method="post">
               <input type="email" name="email"><input type="submit" value="Subscribe">
             </form>
@@ -195,14 +183,14 @@
 
     <div class="container">
       <div class="copyright">
-        &copy; Copyright <strong><span>Gp</span></strong>. All Rights Reserved
+        &copy; Copyright <strong><span>SEO</span></strong>. All Rights Reserved
       </div>
       <div class="credits">
         <!-- All the links in the footer should remain intact. -->
         <!-- You can delete the links only if you purchased the pro version. -->
         <!-- Licensing information: https://bootstrapmade.com/license/ -->
         <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/gp-free-multipurpose-html-bootstrap-template/ -->
-        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+        Designed by <a href="https://www.adapti.info/">Adapti</a>
       </div>
     </div>
   </footer><!-- End Footer -->

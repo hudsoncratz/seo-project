@@ -154,17 +154,15 @@
             <h3>Sobre Nós.</h3>
             <p></p>
             <p class="font-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
+              Somos um time engajado em aplicar no seu site as mais novas técnicas de SEO do mercado. Com nossa ajuda, sua aplicação certamente terá essas características:
             </p>
             <ul>
-              <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-              <li><i class="ri-check-double-line"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-              <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
+              <li><i class="ri-check-double-line"></i> Aumento na taxa de cliques;</li>
+              <li><i class="ri-check-double-line"></i>Maior ranqueamento nos buscadores;</li>
+              <li><i class="ri-check-double-line"></i> Maior performance e carregamento do site; </li>
             </ul>
             <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident
+              Juntos, transformaremos o seu sonho em realidade.
             </p>
           </div>
         </div>
@@ -188,10 +186,12 @@
                   <div class="member-img">
                     <img src="assets/img/team/ana.png" class="img-fluid" alt="">
                     <div class="social">
+                      <!--
                       <a href=""><i class="icofont-twitter"></i></a>
-                      <a href=""><i class="icofont-facebook"></i></a>
-                      <a href=""><i class="icofont-instagram"></i></a>
-                      <a href=""><i class="icofont-linkedin"></i></a>
+                      -->
+                      <a href="https://github.com/anaflaviafcruz"><i class="bx bxl-github"></i></a>
+                      <a href="https://www.instagram.com/anaflaviafcruz/"><i class="icofont-instagram"></i></a>
+                      <a href="https://www.linkedin.com/in/ana-fl%C3%A1via-frontino-3b909a189/"><i class="icofont-linkedin"></i></a>
                     </div>
                   </div>
                   <div class="member-info">
@@ -206,10 +206,12 @@
                   <div class="member-img">
                     <img src="assets/img/team/hudson.png" class="img-fluid" alt="">
                     <div class="social">
+                      <!--
                       <a href=""><i class="icofont-twitter"></i></a>
-                      <a href=""><i class="icofont-facebook"></i></a>
-                      <a href=""><i class="icofont-instagram"></i></a>
-                      <a href=""><i class="icofont-linkedin"></i></a>
+                      -->
+                      <a href="https://github.com/hudsoncratz"><i class="bx bxl-github"></i></a>
+                      <a href="https://www.instagram.com/hudsoncratz/"><i class="icofont-instagram"></i></a>
+                      <a href="https://www.linkedin.com/in/hudson-cratz-8201661b4/"><i class="icofont-linkedin"></i></a>
                     </div>
                   </div>
                   <div class="member-info">
@@ -224,10 +226,12 @@
                   <div class="member-img">
                     <img src="assets/img/team/iasmin.png" class="img-fluid" alt="">
                     <div class="social">
+                      <!--
                       <a href=""><i class="icofont-twitter"></i></a>
-                      <a href=""><i class="icofont-facebook"></i></a>
-                      <a href=""><i class="icofont-instagram"></i></a>
-                      <a href=""><i class="icofont-linkedin"></i></a>
+                      -->
+                      <a href="https://github.com/iasminimp"><i class="bx bxl-github"></i></a>
+                      <a href="https://www.instagram.com/iasminimp/"><i class="icofont-instagram"></i></a>
+                      <a href="https://www.linkedin.com/in/iasmin-marques-b08906128/"><i class="icofont-linkedin"></i></a>
                     </div>
                   </div>
                   <div class="member-info">
@@ -242,10 +246,12 @@
                   <div class="member-img">
                     <img src="assets/img/team/kleiton.png" class="img-fluid" alt="">
                     <div class="social">
-                      <a href=""><i class="icofont-twitter"></i></a>
+                      <a href="https://github.com/kleitonv3"><i class="bx bxl-github"></i></a>
+                      <!--
                       <a href=""><i class="icofont-facebook"></i></a>
-                      <a href=""><i class="icofont-instagram"></i></a>
-                      <a href=""><i class="icofont-linkedin"></i></a>
+                      -->
+                      <a href="https://www.instagram.com/kleitonv3/"><i class="icofont-instagram"></i></a>
+                      <a href="https://www.linkedin.com/in/kleiton-c%C3%A1ssio-239438183/"><i class="icofont-linkedin"></i></a>
                     </div>
                   </div>
                   <div class="member-info">
@@ -329,24 +335,24 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-file"></i></div>
-              <h4><a href="/blog">Título 1</a></h4>
-              <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+              <h4><a href="/blog">Aumente sua taxa de cliques</a></h4>
+              <p>Crie uma descrição sugestiva com gatilhos de CTA</p>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-file"></i></div>
-              <h4><a href="">Título 2</a></h4>
-              <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+              <h4><a href=""> Dados estruturados</a></h4>
+              <p>Aumente o alcance do seu site, mostre-o na primeira página</p>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-file"></i></div>
-              <h4><a href="">Título 3</a></h4>
-              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+              <h4><a href="">Performance</a></h4>
+              <p>Comprima suas imagens e diminua o tempo de carregamento do site</p>
             </div>
           </div>
           <!--
