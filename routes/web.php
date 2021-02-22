@@ -19,4 +19,16 @@ Route::get("/blog", function() {
     return view("portfolio-details");
 })->name("blog");
 
+Route::get("/blog2", function() {
+    return view("blog2");
+})->name("blog2");
+
+
+
+Route::get("/blog3", function() {
+    return view("blog3");
+})->name("blog3");
+
+
+
 Route::get('/portfolio',['as' => 'home.portfolio', 'uses' => 'HomeController@portfolio']);

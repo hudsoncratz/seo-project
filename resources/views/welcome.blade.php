@@ -446,7 +446,7 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-file"></i></div>
-              <h4><a href=""> Dados estruturados</a></h4>
+              <h4><a href="/blog2"> Dados estruturados</a></h4>
               <p>Aumente o alcance do seu site, mostre-o na primeira página</p>
             </div>
           </div>
@@ -454,7 +454,7 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-file"></i></div>
-              <h4><a href="">Performance</a></h4>
+              <h4><a href="/blog3">Performance</a></h4>
               <p>Comprima suas imagens e diminua o tempo de carregamento do site</p>
             </div>
           </div>
