@@ -50,18 +50,18 @@
         <ul>
           <li class="active"><a href="/">Home</a></li>
           <li> </li>
-          <li><a href="#about">Sobre Nós</a></li> <!--#portifolio-->
+          <li><a href="/#about">Sobre Nós</a></li> <!--#portifolio-->
           <li> </li>
-          <li><a href="#team">Equipe</a></li> <!--#about-->
+          <li><a href="/#team">Equipe</a></li> <!--#about-->
           <li> </li>
-          <li><a href="#contact">Localização</a></li> <!-- #services-->
+          <li><a href="/#contact">Localização</a></li> <!-- #services-->
           <li> </li>
-          <li><a href="#contact">Contato</a></li> <!--#portifolio  -->
+          <li><a href="/#contact">Contato</a></li> <!--#portifolio  -->
           <li> </li>
           <li><a href="#footer">Newsletter</a></li> <!--#portifolio  -->
       </nav><!-- .nav-menu -->
 
-      <a href="#services" class="get-started-btn scrollto">Blog</a>
+      <a href="/#services" class="get-started-btn scrollto">Blog</a>
 
     </div>
   </header><!-- End Header -->
@@ -73,10 +73,10 @@
       <div class="container">
 
         <div class="d-flex justify-content-between align-items-center">
-          <h2>Blog - SEO</h2>
+          <h2>Performance</h2>
           <ol>
             <li><a href="index.html">Home</a></li>
-            <li>Aumente sua taxa de cliques</li>
+            <li>Blog - SEO</li>
           </ol>
         </div>
 
@@ -90,7 +90,7 @@
         <div class="portfolio-details-container">
 
           <div class="owl-carousel portfolio-details-carousel">
-            <img src="assets/img/portfolio/cliques.png" class="img-fluid" alt="">
+            <img src="assets/img/portfolio/BLOG3.png" class="img-fluid" alt="">
             <!--<img src="assets/img/portfolio/portfolio-details-2.jpg" class="img-fluid" alt="">
             <img src="assets/img/portfolio/portfolio-details-3.jpg" class="img-fluid" alt="">
             -->
@@ -110,9 +110,9 @@
         </div>
 
         <div class="portfolio-description">
-          <h2>Aumente sua taxa de cliques</h2>
+          <h2>Performance</h2>
           <p>
-            Autem ipsum nam porro corporis rerum. Quis eos dolorem eos itaque inventore commodi labore quia quia. Exercitationem repudiandae officiis neque suscipit non officia eaque itaque enim. Voluptatem officia accusantium nesciunt est omnis tempora consectetur dignissimos. Sequi nulla at esse enim cum deserunt eius.
+            Comprima suas imagens e diminua o tempo de carregamento do site. Autem ipsum nam porro corporis rerum. Quis eos dolorem eos itaque inventore commodi labore quia quia. Exercitationem repudiandae officiis neque suscipit non officia eaque itaque enim. Voluptatem officia accusantium nesciunt est omnis tempora consectetur dignissimos. Sequi nulla at esse enim cum deserunt eius.
           </p>
         </div>
 
